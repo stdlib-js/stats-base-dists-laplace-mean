@@ -67,7 +67,7 @@ The [expected value][mean] for a [Laplace][laplace-distribution] random variable
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mean@v0.1.1-deno/mod.js';
 ```
 
 #### mean( mu, b )
@@ -127,7 +127,7 @@ y = mean( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mean@deno/mod.js';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-mean@v0.1.1-deno/mod.js';
 
 var mu;
 var b;
