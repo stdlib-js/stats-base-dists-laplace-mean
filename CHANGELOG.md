@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`d7721ac`](https://github.com/stdlib-js/stdlib/commit/d7721acc432ec419630e74bb49db5ccccc3cd1d5) - **docs:** fix C example code _(by Philipp Burckhardt)_
 -   [`aee7cdf`](https://github.com/stdlib-js/stdlib/commit/aee7cdf55bfc137e4dd82e0118d299825ba05895) - **feat:** add C implementation for `stats/base/dists/laplace/mean` [(#3993)](https://github.com/stdlib-js/stdlib/pull/3993) _(by Divyansh Seth, Philipp Burckhardt, stdlib-bot)_
 -   [`e5238bb`](https://github.com/stdlib-js/stdlib/commit/e5238bb96b7138d346ea0db8b535aec64c8a856c) - **bench:** refactor random number generation in `stats/base/dists/laplace` [(#5270)](https://github.com/stdlib-js/stdlib/pull/5270) _(by GK Bishnoi)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
