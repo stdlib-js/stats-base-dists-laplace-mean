@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-07-08)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`8ea46b6`](https://github.com/stdlib-js/stdlib/commit/8ea46b662dc6e27231d250d101e33a3cf770cd77) - **test:** update descriptions to match language used in JS tests _(by Philipp Burckhardt)_
 -   [`7be4b47`](https://github.com/stdlib-js/stdlib/commit/7be4b4780d973679eac36b2b4cf970af3513f022) - **chore:** clean-up _(by Athan Reines)_
 -   [`d7721ac`](https://github.com/stdlib-js/stdlib/commit/d7721acc432ec419630e74bb49db5ccccc3cd1d5) - **docs:** fix C example code _(by Philipp Burckhardt)_
 -   [`aee7cdf`](https://github.com/stdlib-js/stdlib/commit/aee7cdf55bfc137e4dd82e0118d299825ba05895) - **feat:** add C implementation for `stats/base/dists/laplace/mean` [(#3993)](https://github.com/stdlib-js/stdlib/pull/3993) _(by Divyansh Seth, Philipp Burckhardt, stdlib-bot)_
