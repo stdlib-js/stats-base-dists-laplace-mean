@@ -159,6 +159,8 @@ logEachMap( 'µ: %0.4f, b: %0.4f, E(X;µ,b): %0.4f', mu, b, mean );
 
 </section>
 
+<!-- /.examples -->
+
 <!-- C interface documentation. -->
 
 * * *
