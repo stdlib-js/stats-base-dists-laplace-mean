@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-27)
+## Unreleased (2026-06-28)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`3422651`](https://github.com/stdlib-js/stdlib/commit/3422651a3ec2e6717f25d82020a62f00dbe2aa78) - **docs:** add missing section closing comments in READMEs _(by Philipp Burckhardt)_
 -   [`3f8da9f`](https://github.com/stdlib-js/stdlib/commit/3f8da9f06286333269e9065344b495a7d91fffa4) - **bench:** refactor to use string interpolation in `stats/base/dists/laplace` [(#10440)](https://github.com/stdlib-js/stdlib/pull/10440) _(by Vishal Gaikwad)_
 
